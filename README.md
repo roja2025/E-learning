@@ -78,3 +78,8 @@ Basic Version Control with Git
 
 ## Conclusion:
 This project demonstrates the ability to design and implement a complete front-end application for an e-learning platform. It integrates core web technologies and UI/UX practices to create an immersive user experience. The development process covered everything from wireframing to deployment readiness, showcasing a strong grasp of layout systems, interactivity, responsiveness, and real-world application simulation.
+
+## OUTPUT :
+# Output 1 [![Image](https://github.com/user-attachments/assets/3f735329-1073-4469-9467-346315780c83)]
+
+# Output 2 [![Image](https://github.com/user-attachments/assets/528224fb-a6e7-45fe-92ca-89867a5813fe)]
